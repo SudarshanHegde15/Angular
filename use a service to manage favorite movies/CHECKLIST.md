@@ -1,4 +1,0 @@
-- When the app loads, all movies are displayed and none are favorites
-- Click on the ☆ icon of the first movie. The icon becomes ⭐ as the movie is now a favorite.
-- Click on the ⭐ again. The icon is back to ☆ as the movie isn't a favorite anymore.
-- Try adding multiple movies as favorites, and removing them. The star icon color should be in sync with your favorites as you add/remove them.
