@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../DataScience Deplomo/python/coding"
+		},
+		{
+			"path": "../Questions/car-configurator-bug-fixes-1"
+		},
+		{
+			"path": "../Questions/car-configurator-config-options-1"
+		},
+		{
+			"path": "../Questions/car-configurator-model-and-color-1"
+		},
+		{
+			"path": "../Questions/car-configurator-summary-and-price-1"
+		},
+		{
+			"path": "../Questions/add-filters-to-our-movies-app-1"
+		},
+		{
+			"path": "../Questions/highlight-a-specific-movie-in-the-list-on-mouse-over-1"
+		},
+		{
+			"path": "../Questions/use-a-service-to-manage-favorite-movies-1"
+		},
+		{
+			"path": "../Questions/use-rx-js-observables-to-display-data-1"
+		},
+		{
+			"path": "../Questions/use-the-router-to-display-movie-details-1"
+		}
+	],
+	"settings": {}
+}
